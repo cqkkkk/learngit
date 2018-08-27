@@ -3,3 +3,6 @@ Git is free software.
 GIt is easy to learning.
 
 Git is very important for engineer.
+
+keep learning.
+Be a better man!
